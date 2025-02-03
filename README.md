@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm [Yersultan!](https://github.com/Yersdev/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Telegramm Badge](https://img.shields.io/badge/-LinkedIn-e4405f?style=flat-square&logo=Linkedin&logoColor=white)](https://t.me/Best0fWest)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YersDev)
+[![Telegramm Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://t.me/Best0fWest)
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YersDev&label=Profile%20views&color=0e75b6&style=flat" alt="Yersdev" /> </p>
