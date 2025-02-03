@@ -9,11 +9,10 @@ I am a beginner Spring developer with strong motivation and a desire for profess
 
 Skills:
 
-Programming languages: Java, Kotlin
+Programming languages: Java
 Frameworks: Spring Boot, Spring MVC, Spring Security
-Databases: MySQL, PostgreSQL
-Tools: Maven, Git, Docker
-Methodologies: Agile, Scrum
+Databases: MySQL, PostgreSQL, MongoDb
+Tools: Maven, Git, Docker, GitKraken
 I am currently studying React, Spring, and Docker, and I am actively looking for projects to participate in.
 
 
