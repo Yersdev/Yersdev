@@ -67,7 +67,8 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
   <summary><b>☄️ Github Streaks</b></summary>
 
  <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yersdev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yersdev&theme=dark)](https://git.io/streak-stats)
+
 
 </details>
 
