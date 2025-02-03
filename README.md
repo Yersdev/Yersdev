@@ -5,27 +5,25 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YersDev&label=Profile%20views&color=0e75b6&style=flat" alt="Yersdev" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I am a beginner Spring developer with strong motivation and a desire for professional growth. My goal is to create efficient and scalable applications using the Spring Framework.
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+Skills:
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Programming languages: Java, Kotlin
+Frameworks: Spring Boot, Spring MVC, Spring Security
+Databases: MySQL, PostgreSQL
+Tools: Maven, Git, Docker
+Methodologies: Agile, Scrum
+I am currently studying React, Spring, and Docker, and I am actively looking for projects to participate in.
 
 
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
+<h3 align="left">✨ Random Dev Quote ✨::</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 <hr>
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/Yersdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="200px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -66,7 +64,7 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yersdev&hide_border=true" />
 </details>
 
 <details>
