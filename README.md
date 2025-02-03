@@ -24,4 +24,4 @@
 
 ## Статистика
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Ваше_имя_пользователя&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Yersdev&show_icons=true&hide_title=true&count_private=true&hide=prs)
