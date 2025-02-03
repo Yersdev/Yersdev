@@ -66,11 +66,11 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
- <br />
- https://streak-stats.demolab.com/?user=Yersdev
-
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Yersdev" alt="GitHub Streak" />
 
 </details>
+
 
 <details>
   <br />
