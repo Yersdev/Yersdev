@@ -71,13 +71,11 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> ASUS Tuf Gaming</li>
+  	    <li><b>Browser: </b> Chrome & Edge</li>
+	    <li><b>Code Editor:</b> IntelliJ - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Obsidian, GitKraken and ChatGpt</li>
 	</ul>
 </details>
 
