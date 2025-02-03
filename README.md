@@ -67,9 +67,12 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Yersdev" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Yersdev" alt="GitHub Streak" />
+  </a>
 
 </details>
+
 
 
 <details>
