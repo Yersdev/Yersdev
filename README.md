@@ -32,9 +32,9 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 🚀 &nbsp; Passionate about tech, always experimenting with new ideas.  
+- 📚 &nbsp; Deep diving into articles, docs, and tech videos.  
+- 🎮 &nbsp; Coding, gaming, and discussing the future of technology.
 
 ### Languages and Tools:
 
