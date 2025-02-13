@@ -19,7 +19,7 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
 <hr>
 <h3 align="left">✨ Random Dev Quote ✨::</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 <hr>
 
