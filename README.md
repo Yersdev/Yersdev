@@ -38,6 +38,7 @@ I am currently studying React, Spring, and Docker, and I am actively looking for
 
 ### Languages and Tools:
 
+
 <div style="display: flex; flex-wrap: nowrap;">
     <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java">
     <img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="spring">
